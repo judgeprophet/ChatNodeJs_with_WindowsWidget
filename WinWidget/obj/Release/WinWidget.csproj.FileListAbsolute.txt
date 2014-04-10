@@ -1,0 +1,15 @@
+C:\Developpement\TelephonieIP\WinWidget\obj\Release\ResolveAssemblyReference.cache
+C:\Developpement\TelephonieIP\WinWidget\obj\Release\WinWidget.csproj.GenerateResource.Cache
+C:\Developpement\TelephonieIP\WinWidget\bin\Release\WinWidget.exe.config
+C:\Developpement\TelephonieIP\WinWidget\bin\Release\WinWidget.exe
+C:\Developpement\TelephonieIP\WinWidget\obj\Release\GZM.TP.WinWidget.Properties.Resources.resources
+C:\Developpement\TelephonieIP\WinWidget\obj\Release\WinWidget.exe
+C:\Developpement\TelephonieIP\WinWidget\obj\Release\GZM.TP.WinWidget.Form1.resources
+C:\Node\WinWidget\bin\Release\WinWidget.exe.config
+C:\Node\WinWidget\bin\Release\WinWidget.exe
+C:\Node\WinWidget\obj\Release\ResolveAssemblyReference.cache
+C:\Node\WinWidget\obj\Release\GZM.TP.WinWidget.Properties.Resources.resources
+C:\Node\WinWidget\obj\Release\GZM.TP.WinWidget.Form1.resources
+C:\Node\WinWidget\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Node\WinWidget\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Node\WinWidget\obj\Release\WinWidget.exe

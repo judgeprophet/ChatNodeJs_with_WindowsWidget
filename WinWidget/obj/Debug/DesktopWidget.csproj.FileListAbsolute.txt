@@ -1,0 +1,24 @@
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\obj\Debug\DesktopWidget.Properties.Resources.resources
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\obj\Debug\DesktopWidget.Form1.resources
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\obj\Debug\DesktopWidget.csproj.GenerateResource.Cache
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\bin\Debug\DesktopWidget.exe
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\bin\Debug\DesktopWidget.pdb
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\bin\Debug\AxInterop.SHDocVw.dll
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\bin\Debug\MsHtmHstInterop.dll
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\bin\Debug\partial.mshtml.dll
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\obj\Debug\DesktopWidget.exe
+C:\Documents and Settings\sv71001.GAZMET.000\Local Settings\Application Data\Temporary Projects\DesktopWidget\obj\Debug\DesktopWidget.pdb
+D:\Download\DesktopWidget_src\DesktopWidget\obj\Debug\DesktopWidget.exe
+D:\Download\DesktopWidget_src\DesktopWidget\obj\Debug\DesktopWidget.pdb
+D:\Download\DesktopWidget_src\DesktopWidget\bin\Debug\DesktopWidget.exe
+D:\Download\DesktopWidget_src\DesktopWidget\bin\Debug\DesktopWidget.pdb
+D:\Download\DesktopWidget_src\DesktopWidget\bin\Debug\AxInterop.SHDocVw.dll
+D:\Download\DesktopWidget_src\DesktopWidget\bin\Debug\Interop.SHDocVw.dll
+D:\Download\DesktopWidget_src\DesktopWidget\bin\Debug\MsHtmHstInterop.dll
+D:\Download\DesktopWidget_src\DesktopWidget\bin\Debug\partial.mshtml.dll
+D:\Download\DesktopWidget_src\DesktopWidget\obj\Debug\ResolveAssemblyReference.cache
+D:\Download\DesktopWidget_src\DesktopWidget\obj\Debug\DesktopWidget.Properties.Resources.resources
+D:\Download\DesktopWidget_src\DesktopWidget\obj\Debug\DesktopWidget.Form1.resources
+D:\Download\DesktopWidget_src\DesktopWidget\obj\Debug\DesktopWidget.csproj.GenerateResource.Cache
